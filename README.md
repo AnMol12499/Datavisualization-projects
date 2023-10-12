@@ -5,7 +5,7 @@
 
 * [Tableau Dashboard Here](https://public.tableau.com/app/profile/anmol.sharma1541/viz/covid_19analysis_16970643203570/Dashboard1)
 
-* [Original Dateset](https://github.com/CSSEGISandData/COVID-19)
+* [Original Dataset](https://github.com/CSSEGISandData/COVID-19)
 
   I did some basic data wrangling Please refer [Covid_19 data preparation notebook]
   
